@@ -1,0 +1,2 @@
+PV_eta,PV_S,FC_number_of_cells,BATTERY_capa,BATTERY_maxcharge,BATTERY_maxdischarge,BATTERY_initSoc,BATTERY_dt,WT_fac,WT_R,MT
+0.15,100,1000,100000,-10000,10000,80,0.0167,0.952,30,1
